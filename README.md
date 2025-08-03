@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Deva Nanda M</h1>
-<h3 align="center">A computer science student from India</h3>
+<h3 align="center">A computer science student, third year Btech from India.</h3>
 
 - 📫 How to reach me **devanandam282@gmail.com**
 
